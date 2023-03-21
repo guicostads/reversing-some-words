@@ -1,5 +1,5 @@
 # reversing-some-words
-Função que retorna uma string com as palavras maiores de cinco letras ao contrário.
+Função que pega uma string e a retorna com as palavras maiores de cinco letras ao contrário.
 
 # Description
 
